@@ -17,7 +17,7 @@
 * Het upgraden van de framework/bibliotheek kan fouten veroorzaken in jouw systeem. Het is daarom belangrijk om de bugtracker te bekijken voordat je zo een upgrade maakt. Als er geen oplossing is, zit er niks anders op om te downgraden (of her te installeren bij back-end) als dat nog mogelijk is.
 * De ondersteuning van het framework/bibliotheek kan vervallen. Dit kan vervelend worden op het moment dat de standaardisering van het web veranderd. Maar ook zou het kunnen dat een nog niet gevonden fout wordt ontdekt.
 * Je leert niet de onderliggende principes van Vanilla Javascript.
-* Langere download tijd benodigd.
+* Langere downloadtijd benodigd.
 
 
 [Bron Vanilla Javascript leren voor het werken met frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)
